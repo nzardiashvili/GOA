@@ -1,0 +1,23 @@
+#main {
+    background-color: black;
+    text-align: center;
+    font-size: larger;
+    border: 5px solid white;
+    max-width: 30px;
+    padding: 5%;
+}
+
+#h1 {
+   text-align: center;
+   color: blueviolet;
+   background-color: blue;
+   border: 3px solid salmon;
+   max-width: 30px;
+}
+
+#p1, #p2, #p3 {
+    color: brown;
+    background-color: azure(100%, 100%, 10%);
+    font-size: large;
+    color: hsla(O, 100%, 100%, 0.5);
+}
