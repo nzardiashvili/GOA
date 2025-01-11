@@ -1,7 +1,10 @@
-def custom_join(interable, delimiter):
+def custom_join(words, delimiter):
     result = ""
-    for index, item in enumerate(iterable):
-        result += item
-        if index < len(interable) - 1:
+    for i in range(len(words)):
+        result += words[i]
+        if i < len(words) - 1:
             result += delimiter
-            return result
+    return result
+
+words = ["hello", "words", "this", "python"]
+print("ccostom_words")

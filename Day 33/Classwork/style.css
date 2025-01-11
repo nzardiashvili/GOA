@@ -1,0 +1,9 @@
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: aliceblue;
+    margin: auto;
+    position: relative;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50px;
+}

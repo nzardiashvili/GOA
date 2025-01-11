@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: "roboto", serif;
+    text-align: center;
+    background-color: bisque;
+    padding: 50px;
+    background-image: url(./assets/photos/lion-bg.png);
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1 {
+    color: brown;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.conteiner {
+        background-image: url(./assets/photos/lion-bg.png);
+        background-position: top;
+        background-size: cover;
+        background-repeat: no-repeat;
+}

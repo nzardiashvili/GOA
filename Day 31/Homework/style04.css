@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    border: 10px  aliceblue;
+    color:blueviolet;
+    max-width: 40%;
+    margin: auto;
+    margin-top: 10%;
+    padding: 1% 1% 1% 1%;
+}
