@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: space-between;
+}
+.div1 {
+    background-color: aquamarine;
+    width: 20px;
+    height: 20px;
+}
+.div2 {
+    background-attachment: fixed;
+    width: 20px;
+    height: 20px;
+}
